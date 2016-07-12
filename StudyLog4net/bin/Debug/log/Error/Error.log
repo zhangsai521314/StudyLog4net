@@ -1,0 +1,15 @@
+2016-05-20 11:54:43,276 [10] ERROR - StudyLog4net_File.Program.Main
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 StudyLog4net_File.Program.Main(String[] args) 位置 f:\工作学习\遇到的问题解决TXT\demo事例\学习log4net\StudyLog4net\StudyLog4net\Program.cs:行号 24
+2016-05-20 13:40:11,291 [10] ERROR - StudyLog4net_File.Program.Main
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 StudyLog4net_File.Program.Main(String[] args) 位置 f:\工作学习\遇到的问题解决TXT\demo事例\学习log4net\StudyLog4net\StudyLog4net\Program.cs:行号 24
+2016-05-20 13:40:49,325 [9] ERROR - StudyLog4net_File.Program.Main
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 StudyLog4net_File.Program.Main(String[] args) 位置 f:\工作学习\遇到的问题解决TXT\demo事例\学习log4net\StudyLog4net\StudyLog4net\Program.cs:行号 24

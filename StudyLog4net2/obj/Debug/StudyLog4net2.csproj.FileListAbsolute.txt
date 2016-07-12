@@ -1,0 +1,6 @@
+D:\vs\学习log4net\StudyLog4net\StudyLog4net2\bin\Debug\StudyLog4net2.exe
+D:\vs\学习log4net\StudyLog4net\StudyLog4net2\bin\Debug\StudyLog4net2.pdb
+D:\vs\学习log4net\StudyLog4net\StudyLog4net2\obj\Debug\StudyLog4net2.exe
+D:\vs\学习log4net\StudyLog4net\StudyLog4net2\obj\Debug\StudyLog4net2.pdb
+D:\vs\学习log4net\StudyLog4net\StudyLog4net2\bin\Debug\log4net.dll
+D:\vs\学习log4net\StudyLog4net\StudyLog4net2\bin\Debug\StudyLog4net2.exe.config

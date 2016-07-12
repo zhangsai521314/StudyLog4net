@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyLog4net_File", "StudyLog4net\StudyLog4net_File.csproj", "{04F4FAF9-087C-47B7-AABE-0AE112A14773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyLog4net_Size", "StudyLog4net2\StudyLog4net_Size.csproj", "{E744E0F6-483C-4AC5-BE18-7552C6076740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyLog4net_Source", "StudyLog4net3\StudyLog4net_Source.csproj", "{29E8D29A-CF76-4C82-B007-82B93D773E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyLog4net_Console", "StudyLog4net_Console\StudyLog4net_Console.csproj", "{B75290FB-E5BC-4F84-BA04-16197F0E5B02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyLog4net_Email", "StudyLog4net_Email\StudyLog4net_Email.csproj", "{4E7E5FA4-CB7F-4B4D-AE47-E6F7BE1FE195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redis", "redis\redis.csproj", "{4C2DB11F-1EDE-436E-AFC1-359C2B150C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F4FAF9-087C-47B7-AABE-0AE112A14773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F4FAF9-087C-47B7-AABE-0AE112A14773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F4FAF9-087C-47B7-AABE-0AE112A14773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F4FAF9-087C-47B7-AABE-0AE112A14773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E744E0F6-483C-4AC5-BE18-7552C6076740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E744E0F6-483C-4AC5-BE18-7552C6076740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E744E0F6-483C-4AC5-BE18-7552C6076740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E744E0F6-483C-4AC5-BE18-7552C6076740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E8D29A-CF76-4C82-B007-82B93D773E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E8D29A-CF76-4C82-B007-82B93D773E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E8D29A-CF76-4C82-B007-82B93D773E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E8D29A-CF76-4C82-B007-82B93D773E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75290FB-E5BC-4F84-BA04-16197F0E5B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75290FB-E5BC-4F84-BA04-16197F0E5B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75290FB-E5BC-4F84-BA04-16197F0E5B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75290FB-E5BC-4F84-BA04-16197F0E5B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7E5FA4-CB7F-4B4D-AE47-E6F7BE1FE195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7E5FA4-CB7F-4B4D-AE47-E6F7BE1FE195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7E5FA4-CB7F-4B4D-AE47-E6F7BE1FE195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7E5FA4-CB7F-4B4D-AE47-E6F7BE1FE195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2DB11F-1EDE-436E-AFC1-359C2B150C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2DB11F-1EDE-436E-AFC1-359C2B150C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2DB11F-1EDE-436E-AFC1-359C2B150C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2DB11F-1EDE-436E-AFC1-359C2B150C61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

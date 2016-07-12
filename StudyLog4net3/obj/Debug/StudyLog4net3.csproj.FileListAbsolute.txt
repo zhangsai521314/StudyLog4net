@@ -1,0 +1,7 @@
+D:\vs\学习log4net\StudyLog4net\StudyLog4net3\bin\Debug\StudyLog4net3.exe.config
+D:\vs\学习log4net\StudyLog4net\StudyLog4net3\bin\Debug\StudyLog4net3.exe
+D:\vs\学习log4net\StudyLog4net\StudyLog4net3\bin\Debug\StudyLog4net3.pdb
+D:\vs\学习log4net\StudyLog4net\StudyLog4net3\bin\Debug\log4net.dll
+D:\vs\学习log4net\StudyLog4net\StudyLog4net3\obj\Debug\StudyLog4net3.csprojResolveAssemblyReference.cache
+D:\vs\学习log4net\StudyLog4net\StudyLog4net3\obj\Debug\StudyLog4net3.exe
+D:\vs\学习log4net\StudyLog4net\StudyLog4net3\obj\Debug\StudyLog4net3.pdb
